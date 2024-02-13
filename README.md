@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Comfy-Store Web App**
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intellegence**
+- 🌱 I’m currently learning **Full Stack Development + Docker + Cloud**
 
 - 👨‍💻 All of my projects are available at [https://shubham-kumar16-portfolio.netlify.app/](https://shubham-kumar16-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, express, databases**
+- 💬 Ask me about **NodeJS, ReactJS, express, databases**
 
 - 📫 How to reach me **malhotrashubham48@gmail.com**
 
