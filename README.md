@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Comfy-Store Web App**
 
-- 🌱 I’m currently learning **Full Stack Development + Docker + Cloud**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://shubham-kumar16-portfolio.netlify.app/](https://shubham-kumar16-portfolio.netlify.app/)
 
