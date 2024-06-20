@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubham_950" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_950?logo=twitter&style=for-the-badge" alt="shubham_950" /></a> </p>
 
-- 🔭 I’m currently working on **Comfy-Store Web App**
+- 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **Kubernetes**
 
